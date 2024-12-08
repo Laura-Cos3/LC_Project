@@ -8,7 +8,7 @@ a {
 }
 
 .weather-app {
-  background: white;
+  background: rgb(2, 2, 2);
   max-width: 700px;
   border-radius: 15px;
   margin: 30px auto;
@@ -52,12 +52,13 @@ main {
   margin: 0;
   font-size: 30px;
   line-height: 45px;
+  color: rgba(254, 253, 253, 0.6);
 }
 
 .weather-app-details {
   font-size: 16px;
   line-height: 20px;
-  color: rgba(39, 33, 66, 0.4);
+  color: rgba(254, 253, 253, 0.6);
   font-weight: 500;
 }
 
@@ -80,11 +81,13 @@ main {
   margin-left: 10px;
   font-weight: bold;
   line-height: 100px;
+  color: rgba(254, 253, 253, 0.6);
 }
 
 .weather-app-unit {
   margin-top: 15px;
   font-size: 26px;
+  color: rgba(254, 253, 253, 0.6);
 }
 
 .weather-forecast {
@@ -95,7 +98,7 @@ main {
 
 .weather-forecast-date {
   text-align: center;
-  color: rgba(39, 33, 66, 0.4);
+  color: rgba(254, 253, 253, 0.6);
   font-size: 16px;
   line-height: 20px;
 }
@@ -122,5 +125,5 @@ footer {
   padding: 20px 0 0 0;
   text-align: center;
   font-size: 15px;
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(254, 253, 253, 0.6);
 }
